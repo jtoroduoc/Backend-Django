@@ -1,0 +1,6 @@
+Experiencia 3: Back-End
+- Introducción a Django 
+- ORM vs SQL 
+- Creación CRUD 
+- Uso de Form de Django 
+- Uso de sesiones para autenticación.
